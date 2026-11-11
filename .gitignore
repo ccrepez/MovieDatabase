@@ -1,0 +1,22 @@
+# Gradle / build
+.gradle/
+build/
+/app/build/
+.kotlin/
+
+# Local config (berisi TMDB_API_KEY & path SDK) — JANGAN di-commit
+local.properties
+
+# IDE
+.idea/
+*.iml
+.cxx/
+.externalNativeBuild/
+captures/
+
+# OS
+.DS_Store
+
+# Keystore
+*.jks
+*.keystore
